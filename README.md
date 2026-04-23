@@ -5,7 +5,7 @@ This repository contains the data supporting the paper:
 
 📌 Please cite the following paper if you use this repository
 
-Chen, Y., Wadee, M.A., Málaga-Chuquitaype, C. (2026). Nonlinear resonance characterization of parametrically excited pre-buckled elastic struts.
+Cheng, Y., Wadee, M.A., Málaga-Chuquitaype, C. (2026). Nonlinear resonance characterization of parametrically excited pre-buckled elastic struts.
 Proceedings of the Royal Society A DOI: 10.1098/rspa.2026.0072
 
 ## B. Files in the repository
@@ -42,4 +42,4 @@ manuscript.
 
 ## C. Repository DOI
 
-You can cite this repository as follows:  Chen, Y., Wadee, M.A., Málaga-Chuquitaype, C. (2026). Shared Data and Supplementary Material of 'Nonlinear Resonance Characterization of Parametrically Excited Pre-buckled Elastic Struts'. Zenodo, DOI: 10.5281/zenodo.19701820
+You can cite this repository as follows:  Cheng, Y., Wadee, M.A., Málaga-Chuquitaype, C. (2026). Shared Data and Supplementary Material of 'Nonlinear Resonance Characterization of Parametrically Excited Pre-buckled Elastic Struts'. Zenodo, DOI: 10.5281/zenodo.19701820
