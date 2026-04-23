@@ -42,4 +42,4 @@ manuscript.
 
 ## C. Repository DOI
 
-You can cite this repository as follows:  Chen, Y., Wadee, M.A., Málaga-Chuquitaype, C. (2026). Shared Data and Supplementary Material of 'Nonlinear Resonance Characterization of Parametrically Excited Pre-buckled Elastic Struts'. Zenodo, DOI: https://doi.org/
+You can cite this repository as follows:  Chen, Y., Wadee, M.A., Málaga-Chuquitaype, C. (2026). Shared Data and Supplementary Material of 'Nonlinear Resonance Characterization of Parametrically Excited Pre-buckled Elastic Struts'. Zenodo, DOI: 10.5281/zenodo.19701820
